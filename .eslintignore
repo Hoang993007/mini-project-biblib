@@ -1,0 +1,11 @@
+node_modules/
+dist
+**/scripts/*.js
+*.css
+*.svg
+charting_library
+socket.js
+datafeeds
+src/features/TradingViewChart/Components/Chart/Datafeed.js
+src/features/OrderForm/helpers/transformTrezorTransaction.js
+src/event/event-bus.tsx
